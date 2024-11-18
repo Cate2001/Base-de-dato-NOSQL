@@ -1,0 +1,42 @@
+[{
+  "_id": "partido_001",
+  "fecha": "2024-06-15",
+  "lugar": "Estadio Principal",
+  "equipos": {
+    "equipo_1": "Colegio San José",
+    "equipo_2": "Colegio La Salle"
+  },
+  "resultado": {
+    "equipo_1_goles": 3,
+    "equipo_2_goles": 1
+  },
+  "arbitro": "arbitro_001"
+},
+{
+  "_id": "partido_002",
+  "fecha": "2024-06-16",
+  "lugar": "Estadio Secundario",
+  "equipos": {
+    "equipo_1": "Colegio María Auxiliadora",
+    "equipo_2": "Colegio San José"
+  },
+  "resultado": {
+    "equipo_1_goles": 0,
+    "equipo_2_goles": 4
+  },
+  "arbitro": "arbitro_002"
+},
+{
+  "_id": "partido_003",
+  "fecha": "2024-06-17",
+  "lugar": "Estadio Principal",
+  "equipos": {
+    "equipo_1": "Colegio La Salle",
+    "equipo_2": "Colegio María Auxiliadora"
+  },
+  "resultado": {
+    "equipo_1_goles": 2,
+    "equipo_2_goles": 2
+  },
+  "arbitro": "arbitro_003"
+}]

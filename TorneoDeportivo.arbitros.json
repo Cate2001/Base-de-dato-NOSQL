@@ -1,0 +1,18 @@
+[{
+  "_id": "arbitro_001",
+  "nombre": "Antonio López",
+  "experiencia": 5,
+  "partidos_arbitrados": 20
+},
+{
+  "_id": "arbitro_002",
+  "nombre": "Elena Ruiz",
+  "experiencia": 3,
+  "partidos_arbitrados": 15
+},
+{
+  "_id": "arbitro_003",
+  "nombre": "Felipe Rodríguez",
+  "experiencia": 7,
+  "partidos_arbitrados": 30
+}]

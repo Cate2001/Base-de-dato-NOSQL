@@ -1,0 +1,72 @@
+[{
+  "_id": "equipo_001",
+  "nombre": "Colegio San José",
+  "entrenador": "Carlos Pérez",
+  "grupo": "A",
+  "jugadores": [
+    "jugador_001",
+    "jugador_002",
+    "jugador_003",
+    "jugador_004",
+    "jugador_005",
+    "jugador_006",
+    "jugador_007",
+    "jugador_008",
+    "jugador_009",
+    "jugador_010"
+  ]
+},
+{
+  "_id": "equipo_002",
+  "nombre": "Colegio La Salle",
+  "grupo": "A",
+  "entrenador": "Lucía Gómez",
+  "jugadores": [
+    "jugador_011",
+    "jugador_012",
+    "jugador_013",
+    "jugador_014",
+    "jugador_015",
+    "jugador_016",
+    "jugador_017",
+    "jugador_018",
+    "jugador_019",
+    "jugador_020"
+  ]
+},
+{
+  "_id": "equipo_003",
+  "nombre": "Colegio María Auxiliadora",
+  "grupo": "B",
+  "entrenador": "Juan Díaz",
+  "jugadores": [
+    "jugador_021",
+    "jugador_022",
+    "jugador_023",
+    "jugador_024",
+    "jugador_025",
+    "jugador_026",
+    "jugador_027",
+    "jugador_028",
+    "jugador_029",
+    "jugador_030"
+  ]
+},
+{
+  "_id": "equipo_004",
+  "nombre": "Colegio Santo Tomás",
+  "grupo": "B",
+  "entrenador": "Pedro Sánchez",
+  "jugadores": [
+    "jugador_031",
+    "jugador_032",
+    "jugador_033",
+    "jugador_034",
+    "jugador_035",
+    "jugador_036",
+    "jugador_037",
+    "jugador_038",
+    "jugador_039",
+    "jugador_040"
+  ]
+}]
